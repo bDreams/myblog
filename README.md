@@ -3,8 +3,11 @@
 2. public: 存放静态文件，如样式、图片等
 3. routes: 存放路由文件
 4. views: 存放模板文件
-5. index.js: 程序主文件
-6. package.json: 存储项目名、描述、作者、依赖等待信息 
+5. lib: 存放操作数据库文件
+6. middlewares: 存放中间件文件
+7. config: 存放配置文件
+8. index.js: 程序主文件
+9. package.json: 存储项目名、描述、作者、依赖等待信息 
 
 # 依赖模块
 1. express: web 框架
